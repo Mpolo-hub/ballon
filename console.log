@@ -1,0 +1,6 @@
+console.log("Nom:", name);
+console.log("Nationalité:", nationality);
+console.log("Pays:", country);
+console.log("Email:", email);
+console.log("Téléphone:", phone);
+console.log("ID du joueur:", playerId);
